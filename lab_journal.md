@@ -1,0 +1,2 @@
+Day 1 (Jan 23rd, 2022)
+Created .py file and .R file. Loaded raster files and converted into dataframes. Learned how to access EarthEngine files directly from the .py file with the API, without a need to download.
